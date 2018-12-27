@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#item{
+	width:150px;;
+	height:220px;
+	border:1px solid black;
+	display:inline-block;
+}
+#user{
+	width:150px;;
+	height:220px;
+	border:1px solid black;
+	margin-left:100px;
+	display:inline-block;
+}
+#back{
+	clear:left;
+	padding-top:50px;
+}
+
+#text-center{
+	display:inline-block;
+	text-alig:center;
+}
